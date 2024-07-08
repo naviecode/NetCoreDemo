@@ -1,0 +1,22 @@
+# Thư mục hệ thống và file tạm thời
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Các file log và file tạm
+*.log
+*.tmp
+*.pid
+
+# Các file build
+*.sln.docstates
+
+# Các file cấu hình tạm thời
+appsettings.Development.json
+launchSettings.json
+
+# Các file khóa
+project.lock.json
+project.fragment.lock.json
