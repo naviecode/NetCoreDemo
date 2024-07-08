@@ -1,0 +1,2 @@
+﻿Tạo file gitignore trước khi setup push code github
+Nếu đã push code trên git thì nhớ xóa cache git, để thực hiện gitignore
